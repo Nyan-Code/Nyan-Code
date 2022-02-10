@@ -1,7 +1,7 @@
 # Yahallo (￣▽￣)ノ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-<img hight="100" width="500" alt="GIF" align="center" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320">
+<img hight="100" width="500" align="center" alt="GIF" src="https://github.com/Nyan-Code/Nyan-Code/blob/main/assets/13626.gif" >
 </div>
 
 </br>
@@ -57,8 +57,7 @@
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Nyan-Code/Nyan-Code/blob/main/assets/13626.gif">
+<img hight="320" width="450" alt="GIF" align="right" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" >
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
