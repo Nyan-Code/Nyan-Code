@@ -23,7 +23,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime/Movies
 - ✨ Reading Light Novels, Mangga, or Anything 
-- ✨ and of course coding XD
+- ✨ and of Course Coding XD
 
 </br>
 </br>
