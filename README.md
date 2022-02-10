@@ -70,7 +70,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 	<a href="https://steamcommunity.com/id/textmissing099/"><img alt="steam" width="10%" style="padding:5px" src="https://img.icons8.com/doodle/96/000000/steam-circled.png"/></a>
 	<a href="https://www.instagram.com/malik_arif23/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/Malik_Arif23"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
 <a href="https://discordapp.com/users/308242017522286594/"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/></a>
 </p>
 
