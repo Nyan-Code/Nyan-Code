@@ -1,4 +1,4 @@
-# Yahallo (￣▽￣)ノ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hallo (￣▽￣)ノ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
 <img hight="100" width="500" align="center" alt="GIF" src="https://github.com/Nyan-Code/Nyan-Code/blob/main/assets/13626.gif" >
@@ -47,7 +47,7 @@
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+
 </p>
 </br>
 </br>
@@ -61,7 +61,7 @@
 <img hight="320" width="450" alt="GIF" align="right" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" >
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or anything just ping me 😉.
 
 
 <p align="center">
