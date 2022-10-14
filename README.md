@@ -19,6 +19,7 @@
 - ✨ Data Structures & Algorithms
 - ✨ Generative Adversarial Networks
 - ✨ Back-End Apllication
+- ✨ Front-End Apllication
 
 ### - Hobbies : 
 - ✨ Gaming Addict
