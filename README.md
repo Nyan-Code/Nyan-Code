@@ -12,7 +12,7 @@
 
 ### - I'm 21 years  Programmer & Web Dev Enthusiast from Indonesia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://pa1.narvii.com/6387/9a11050897be5995c58b1eb779939481aad89e08_hq.gif">
+<img hight="200" width="350" alt="GIF" align="right" src="https://github.com/malik-arif/gifArchive/blob/main/code-coding.gif">
 
 
 ### - Learning :
